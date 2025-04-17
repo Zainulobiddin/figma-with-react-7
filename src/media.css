@@ -1,0 +1,53 @@
+@media (max-width: 600px) {
+  nav {
+    padding: 20px;
+  }
+  .img {
+    gap: 10px;
+  }
+  .main {
+    flex-direction: column-reverse;
+    gap: 25px;
+  }
+  .phone {
+    margin-right: 0;
+    width: 90%;
+  }
+  .mainLeft {
+    align-items: center;
+    text-align: center;
+    gap: 15px;
+  }
+  h1 {
+    font-size: 35px;
+    line-height: 35px;
+  }
+  .btns {
+    gap: 13px;
+    flex-direction: column;
+  }
+  .middle {
+    padding: 30px;
+  }
+  .Cards {
+    flex-direction: column;
+    gap: 25px;
+    padding: 20px;
+  }
+  .blue {
+    gap: 15px;
+  }
+  .inpBtn {
+    width: 80%;
+  }
+  .text {
+    text-align: center;
+  }
+  h2  {
+    font-size: 35px;
+    line-height: 40px;
+  }
+  p {
+    line-height: 25px;
+  }
+}
